@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/81211b9f-efdc-4a1f-9289-aea2d1aedc27)# Apex Challenge Tracker
+# Apex Challenge Tracker
 Challenge tracker and optimizer for Apex Legends, soon we will be adding other games to the list. 
 
 Originally forked from: http://apex.elec0.com
