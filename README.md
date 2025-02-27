@@ -1,14 +1,7 @@
 # Apex Challenge Tracker
-Challenge tracker and optimizer for Apex Legends.
+Challenge tracker and optimizer for Apex Legends, soon we will be adding other games to the list. 
 
-Enter your challenges, and the site will show you which legends to use, modes to play, and weapons to use to maximize your battle pass point gain.
-
-See the help on the site for basic usage, or the more detailed help here.
-
-Published website: http://apex.elec0.com
-
-# How To Use
-The website is divided up into two main sections: Challenges and Optimal Path.
+Originally forked from: http://apex.elec0.com
 
 ## Basic Usage
 Copy challenges from Apex, include star value for each.  
@@ -105,3 +98,4 @@ I tried to write it in some kind of not-stupid way, but I haven't done much with
 * Other backgrounds: [EA](https://www.ea.com/games/apex-legends/media)
 * Misc icons: idk some random websites + I made some
 * Github logo: https://github.com/logos
+* Original work found from: Elec0
