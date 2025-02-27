@@ -863,3 +863,42 @@ textarea:focus-visible, select:focus-visible {
     outline: solid var(--color-challenge-bar-progress) 1px;
 }
 /* #endregion */
+#game-menu {
+    display: flex;
+    justify-content: center;
+    background: #333;
+    padding: 10px;
+}
+
+.game-tab {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    transition: background 0.3s;
+}
+
+.game-tab:hover {
+    background: #555;
+}
+#top-row {
+    display: flex;  /* Makes the links appear in a row */
+    justify-content: center;  /* Centers them horizontally */
+    background: #222;  /* Dark background to match the site */
+    padding: 10px;
+    gap: 15px;  /* Adds spacing between buttons */
+}
+
+.top-link {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    background: #444;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+
+.top-link:hover {
+    background: #666;
+}
